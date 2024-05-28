@@ -1,4 +1,7 @@
-Netflix clone
+# Netflix clone
+It is a Netflix login page design clone.
 
 
+
+## DEMO
 ![Screenshot 2024-05-28 184341](https://github.com/uvenkatateja/netflix/assets/118493739/0c318d96-18de-44c3-8f77-88ec2cbaeaeb)
